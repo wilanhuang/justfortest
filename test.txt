@@ -2,5 +2,3 @@ Java
 Shell
 Perl
 GO
-Java Script
-Vue
