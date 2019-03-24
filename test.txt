@@ -1,7 +1,4 @@
 Java
 Shell
 Go
-<<<<<<< HEAD
-=======
 Shell
->>>>>>> e6139825009ab2ecf157310bba4a7c693b984c0b
