@@ -4,4 +4,3 @@ Perl
 GO
 Java Script
 Vue
-React
